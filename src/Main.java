@@ -9,6 +9,7 @@ public class Main {
         System.out.println(nums[1]);
         System.out.println(nums[2]);
         System.out.println(nums[2]);
+        System.out.println(nums[2]);
 
     }
 }
