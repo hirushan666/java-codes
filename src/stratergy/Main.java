@@ -10,6 +10,8 @@ public class Main {
 
         cart.setPaymentStrategy(new PayPalPayment());
         cart.checkout(500);
+
+
     }
 }
 
